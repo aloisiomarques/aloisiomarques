@@ -38,8 +38,9 @@ I'm a Systems Information graduate interested in software development, cybersecu
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aloisiomarques&show_icons=true&theme=midnight-purple&hide_border=true&title_color=ff3ea5&icon_color=8a2be2&text_color=c9d1d9&bg_color=111318" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloisiomarques&layout=compact&theme=midnight-purple&hide_border=true&title_color=ff3ea5&text_color=c9d1d9&bg_color=111318" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=aloisiomarques&show_icons=true&theme=midnight-purple&hide_border=true&title_color=ff3ea5&icon_color=8a2be2&text_color=c9d1d9&bg_color=111318" />
+
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aloisiomarques&layout=compact&theme=midnight-purple&hide_border=true&title_color=ff3ea5&text_color=c9d1d9&bg_color=111318" />
 </p>
 
 ---
