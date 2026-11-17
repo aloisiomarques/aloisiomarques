@@ -23,7 +23,7 @@ I'm a Systems Information graduate interested in software development, cybersecu
 ### ⚙️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,c#,java,html,js,ts,nodejs,angula,react,postgres,docker,git,github,linux,,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,java,html,js,ts,nodejs,angular,react,postgres,docker,git,github,linux,vscode&theme=dark" />
 </p>
 
 ### 📚 Currently Learning
