@@ -6,8 +6,9 @@
 <h3 align="center">👋 Hello, World!</h3>
 
 <p align="center">
-  Welcome to my GitHub profile!
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=33FF33&center=true&vCenter=true&width=520&height=40&lines=Linux+Enthusiast+e+Pedreiro+de+software" alt="Typing SVG" />
+  </a>
 
 ---
 
